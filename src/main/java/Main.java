@@ -10,6 +10,7 @@ public class Main {
         String result = objectMapper.writeValueAsString(audi);
 
         System.out.println(result);
+        System.out.println("Hello World");
 
     }
 }
